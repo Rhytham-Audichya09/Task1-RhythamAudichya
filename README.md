@@ -17,8 +17,7 @@ This is a simple To-Do List application developed using Python. It allows users 
 2. Download or clone the project files.
 3. Open the terminal in the project folder.
 4. Run the program using:
-
-   python todo_list.py
+ to_do_list.py
 
 ## Project Objective
 The main objective of this project is to help users organize their tasks and improve productivity while demonstrating basic Python programming concepts.
